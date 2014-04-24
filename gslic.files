@@ -1,0 +1,11 @@
+gSLIC/cudaDefines.h
+gSLIC/cudaImgTrans.h
+gSLIC/cudaSegEngine.h
+gSLIC/cudaSegSLIC.h
+gSLIC/cudaUtil.h
+gSLIC/FastImgSeg.cpp
+gSLIC/FastImgSeg.h
+Test/stdafx.cpp
+Test/stdafx.h
+Test/targetver.h
+Test/Test.cpp
